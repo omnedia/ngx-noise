@@ -1,0 +1,26 @@
+{
+  "name": "@omnedia/ngx-noise",
+  "description": "An Angular standalone component for rendering real-time, animated noise (grain) overlays on your UI.",
+  "version": "1.0.0",
+  "peerDependencies": {
+    "@angular/common": "^18.0.0",
+    "@angular/core": "^18.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false,
+  "keywords": [
+    "npm",
+    "background",
+    "fuzzy",
+    "noise",
+    "tv",
+    "animation"
+  ],
+  "repository": {
+    "url": "https://github.com/omnedia/ngx-noise"
+  },
+  "author": "Markus Block (markus.block@omnedia.com)",
+  "license": "MIT"
+}
